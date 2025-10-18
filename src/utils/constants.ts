@@ -602,6 +602,14 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Cootshk",
         id: 921605971577548820n
     },
+    nvhhr: {
+        name: "nvhhr",
+        id: 165098921071345666n
+    },
+    Suffocate: {
+        name: "Suffocate",
+        id: 772601756776923187n
+    },
     thororen: {
         name: "thororen",
         id: 848339671629299742n
